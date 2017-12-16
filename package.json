@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "unit testing in javascript using jest",
+  "main": "total-order.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "Ion Gorincioi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ion99/unit-testing-in-javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ion99/unit-testing-in-javascript/issues"
+  },
+  "homepage": "https://github.com/ion99/unit-testing-in-javascript#readme"
+}
