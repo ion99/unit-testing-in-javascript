@@ -50,7 +50,7 @@ it('Star Wars (Example 1)', () => {
 
 //Fourth case;
 
-it('Happy path (Example 2)', () => {
+it('Star Wars (Example 2)', () => {
   expect(orderTotal({
     items: [
       {name: 'Jedi robe',          price: 20,  quantity: 3},
